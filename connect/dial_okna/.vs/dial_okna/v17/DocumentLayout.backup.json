@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xzoto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7434E20D-2105-42F1-B0EF-B5818A9AAC39}|dial_okna\\dial_okna.csproj|c:\\users\\xzoto\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7434E20D-2105-42F1-B0EF-B5818A9AAC39}|dial_okna\\dial_okna.csproj|solutionrelative:dial_okna\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7434E20D-2105-42F1-B0EF-B5818A9AAC39}|dial_okna\\dial_okna.csproj|c:\\users\\xzoto\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7434E20D-2105-42F1-B0EF-B5818A9AAC39}|dial_okna\\dial_okna.csproj|solutionrelative:dial_okna\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\xzoto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "dial_okna\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\xzoto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\MainWindow.xaml",
+              "RelativeToolTip": "dial_okna\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T12:28:53.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xzoto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "dial_okna\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\xzoto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\anasteysha1\\connect\\dial_okna\\dial_okna\\MainWindow.xaml.cs",
+              "RelativeToolTip": "dial_okna\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:28:52.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

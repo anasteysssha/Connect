@@ -1,0 +1,14 @@
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.csproj.AssemblyReference.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\MainWindow.baml
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\MainWindow.g.cs
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\App.g.cs
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna_MarkupCompile.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.g.resources
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.Properties.Resources.resources
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.csproj.GenerateResource.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.csproj.CoreCompileInputs.cache
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\bin\Debug\dial_okna.exe.config
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\bin\Debug\dial_okna.exe
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\bin\Debug\dial_okna.pdb
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.exe
+C:\Users\xzoto\OneDrive\Рабочий стол\anasteysha1\connect\dial_okna\dial_okna\obj\Debug\dial_okna.pdb
